@@ -3,7 +3,7 @@
 /* mobile styling from here */
 @media (max-width: 576px) {
   body {
-    background-color: rgb(164, 164, 242);
+    /* background-color: rgb(164, 164, 242); */
   }
   .elephant {
     position: absolute;
